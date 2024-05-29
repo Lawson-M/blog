@@ -1,6 +1,7 @@
 ---
 title: New Admin Page
 image: "/assets/images/jekyll-logo.png"
+day: 'Wednesday, May 25th, 2024'
 ---
 
 New admin page using jekyll plugins! 

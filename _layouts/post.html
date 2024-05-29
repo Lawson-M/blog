@@ -8,9 +8,15 @@
     <body>
         {% include nav.html %}
         <h1 class = "title-header">{{page.title}}</h1>
+        <div class="date-container">{{page.day}}</div>
         <div class="main-content">
-            <img class = "post-image" src="{{ site.baseurl }}{{page.image}}"/>
-            {{content}}
+            <div class="image-container">
+                <img class = "post-image" src="{{ site.baseurl }}{{page.image}}"/>
+            </div>
+
+            <div class="text-container">
+                {{content}}
+            </div>
         </div>
     </body>
 </html>
