@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Dev Post"
-day:   'Wednesday, May 25th, 2024'
+day:   'Saturday, May 25th, 2024'
 image: "/assets/images/blog.webp"
 ---
 
